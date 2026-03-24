@@ -21,7 +21,7 @@ A weather dashboard built with React that displays real-time weather data for an
 1. Clone the repository
 2. Install dependencies -> npm install
 3. Create a `.env` file in the root directory and add your OpenWeatherMap API key -> VITE_WEATHER_API_KEY=your api key here
-4. 4. Start the development server -> npm run dev
+4. Start the development server -> npm run dev
   
 
 ## API
